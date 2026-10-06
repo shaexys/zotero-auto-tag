@@ -30,7 +30,7 @@ See `examples/taxonomy-example.md`. The plugin reads only the `# Classification 
 
 ## Companion
 
-[auto-relate-zotero](https://github.com/shaexys/auto-relate-zotero) links papers already in your library through OpenAlex citation data.
+[zotero-auto-relate](https://github.com/shaexys/zotero-auto-relate) links papers already in your library through OpenAlex citation data.
 
 ## License
 
